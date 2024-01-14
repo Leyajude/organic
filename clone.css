@@ -47,14 +47,14 @@ border-radius: 5px;
 /* background: var(--Gray-Scale-White, #FFF); */
 }
 .prod1{
-    width: 190px;
+    width: 100%;
 height: 200px;
 }
 .row3{
     width: 85%;
 }
 .prod3{
-    width: 190px;
+    width: 100%;
 height: 250px;
 }
 .rr4{
@@ -74,7 +74,7 @@ height: 500px;
 flex-shrink: 0;
 }
 .rr6{
-    width: 190px;
+    width: 100%;
 height: 250px;
 }
 .row8{
@@ -179,4 +179,10 @@ line-height: 150%; /* 21px */
 }
 .a1{
     text-decoration: none;
+}
+.cc{
+    width: 100%;
+}
+.xx{
+    width: 100%;
 }
